@@ -1,0 +1,26 @@
+{
+  "name": "co-qr",
+  "version": "1.0.0",
+  "description": "Generate QR image file, base64, bytecode with multi options",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rankun203/co-qr.git"
+  },
+  "keywords": [
+    "qr",
+    "code",
+    "youdar",
+    "co",
+    "koa"
+  ],
+  "author": "Kun Ran <rankun203@gmail.com> (http://blog.rankun.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rankun203/co-qr/issues"
+  },
+  "homepage": "https://github.com/rankun203/co-qr#readme"
+}
